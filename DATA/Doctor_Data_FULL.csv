@@ -1,0 +1,50 @@
+﻿ContactID,PracticeStartDate,Degree,Unit
+251,1/11/1970 20:12,DO,Emergency
+252,8/19/2010 0:33,DO,Emergency
+253,10/4/1974 17:08,DO,Emergency
+254,7/13/2003 3:33,DO,Emergency
+255,5/7/2000 3:37,DO,Emergency
+256,5/1/1986 0:18,DO,Family Practice
+257,2/27/1975 17:31,DO,Family Practice
+258,3/5/1981 7:19,DO,Family Practice
+259,12/15/1986 21:58,DO,Family Practice
+260,3/5/1972 11:55,DO,Family Practice
+261,7/12/2007 13:08,DO,Cardiology
+262,1/6/2008 13:13,DO,Cardiology
+263,10/26/2009 12:21,DO,Cardiology
+264,11/1/1984 15:57,DO,Cardiology
+265,11/18/1995 8:41,DO,Intensive Care
+266,9/11/2001 0:18,DO,Intensive Care
+267,8/30/1991 3:42,DO,Intensive Care
+268,6/28/2011 18:56,DO,Intensive Care
+269,11/19/1973 20:46,DO,Intensive Care
+270,2/3/1990 21:37,DO,Neurology
+271,4/21/2004 0:21,DO,Neurology
+272,4/26/1982 4:03,DO,Neurology
+273,4/3/1973 14:31,DO,Neurology
+274,9/23/2006 12:28,DO,Neurology
+275,9/2/1985 20:04,DO,Oncology
+276,9/15/1989 11:34,DO,Oncology
+277,7/12/1974 8:12,DO,Obstetrics
+278,2/16/2009 22:06,DO,Obstetrics
+279,10/2/1981 20:41,DO,Obstetrics
+280,5/11/1974 5:20,DO,Obstetrics
+281,10/20/2001 4:13,MD,Emergency
+282,8/8/1990 13:55,MD,Emergency
+283,10/29/1974 3:01,MD,Emergency
+284,7/31/2005 12:11,MD,Neurology
+285,8/1/1998 15:48,MD,Neurology
+286,5/26/1983 19:19,MD,Neurology
+287,10/20/1977 14:51,MD,Oncology
+288,10/29/2008 16:20,MD,Family Practice
+289,5/11/1997 20:34,MD,Family Practice
+290,3/19/1971 7:34,MD,Family Practice
+291,7/22/1972 14:50,MBBS,Surgery
+292,6/28/1998 4:34,MBBS,Surgery
+293,1/12/2005 23:49,MBBS,Surgery
+294,11/19/2011 17:10,MBBS,Surgery
+295,2/3/2004 21:10,MBBS,Surgery
+296,12/16/1971 2:25,MBBS,Surgery
+297,4/11/1975 18:16,MBBS,Surgery
+298,9/29/1995 22:21,MBBS,Surgery
+299,2/26/1973 14:41,MBBS,Surgery
