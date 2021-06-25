@@ -1,1 +1,8 @@
 # HospitalManagement
+This project was developed in a team with Justin Schieber at Kansas State University as part of CIS 560.
+
+We developed the system as a demonstration of our abilites with SQL by modeling a hospital system to provide logistical information for doctors, hospital administrators, medical researchers, and anyone else who might be interested in the logistical details of the hospital for legitimate purposes. Data for this application was randomly generated (and is included in the DATA folder), we tried to keep it as realistic as possible and also added some unique and fabricated but legitimate data. All tables support SELECT, INSERT, and UPDATE features, but there is no DELETE available. However, each table has an extra column called "IsRemoved" to remove data from a search without destroying the hard records.
+
+To include a GUI, we designed a Windows Form in C# wiht two halves: one to add patients, doctors, contacts, patient-stays, conditions, and treatments and one to read the data and view results of pre-defined queries. The application does not allow users to input their own queries as this could be a significant security breach. Included queries are: find all patients' history and doctor's information of patients with a specific condition as well as year-to-date totals for the condition, partitioned by year; list all of the conditinos and their treatments as well as the length of the patient's stay that a doctor has treated based on the doctor's information; list all patients with a specific condition by doctor; find most common treatemnts prescribed for a given condition by doctor for all doctors in the hospital. 
+
+To learn more about the system, see the report listed
